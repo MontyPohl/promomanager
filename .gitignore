@@ -1,0 +1,19 @@
+# Carpeta de entorno virtual (Python)
+backend/.venv/
+backend/env/
+backend/venv/
+
+# Archivos de variables de entorno (Seguridad)
+backend/.env
+frontend/.env
+frontend/.env.example
+
+
+**/.env
+
+# Dependencias de Node (JavaScript/Frontend)
+frontend/node_modules/
+
+# Archivos del sistema o logs (Opcional)
+**/*.log
+.DS_Store
